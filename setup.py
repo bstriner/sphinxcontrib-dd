@@ -24,7 +24,7 @@ keywords = [
 
 setup(
     name='sphinxcontrib-dd',
-    version='0.1.7',
+    version='0.1.7+abc',
     url='https://github.com/julot/sphinxcontrib-dd',
     license='MIT',
     author='Andy Yulius',
